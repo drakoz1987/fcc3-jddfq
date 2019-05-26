@@ -1,0 +1,21 @@
+.drum-pad {
+	display: inline-block;
+	text-align: center;
+	@media (min-width: 900px) {
+		width: 5vw;
+	}
+	&__container {
+		padding: 0 1rem;
+		display: grid;
+		grid-template-rows: 1fr 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr;
+		@media (min-width: 900px) {
+			margin: 0;
+			width: 22vw;
+
+			align-items: center;
+			justify-items: center;
+			grid-gap: 0.5rem;
+		}
+	}
+}

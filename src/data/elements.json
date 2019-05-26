@@ -1,0 +1,125 @@
+[
+	{
+		"id": "1",
+		"preset": "base",
+		"tag": "Base",
+		"sounds": [
+			{
+				"id": "01",
+				"name": "Q",
+				"tag": "Ride-1",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Rides/482[kb]Ride_01-vs.aif.mp3"
+			},
+			{
+				"id": "02",
+				"name": "W",
+				"tag": "Ride-2",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Rides/289[kb]Ride_02.1-vs.aif.mp3"
+			},
+			{
+				"id": "03",
+				"name": "E",
+				"tag": "Ride-3",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Rides/267[kb]Ride_02.2-vs.aif.mp3"
+			},
+			{
+				"id": "04",
+				"name": "A",
+				"tag": "Snare",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Snares/18[kb]SNARE808.aif.mp3"
+			},
+			{
+				"id": "05",
+				"name": "S",
+				"tag": "Glass-Hammer",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Crashes/16[kb]glasshammer.aif.mp3"
+			},
+			{
+				"id": "06",
+				"name": "D",
+				"tag": "Distorto-Tom",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Toms/33[kb]distortotom.aif.mp3"
+			},
+			{
+				"id": "07",
+				"name": "Z",
+				"tag": "Open-HH-2",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Hats/43[kb]ohh808b.aif.mp3"
+			},
+			{
+				"id": "08",
+				"name": "X",
+				"tag": "Close-HH-2",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Hats/9[kb]chh2.aif.mp3"
+			},
+			{
+				"id": "09",
+				"name": "C",
+				"tag": "Clap",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Claps/13[kb]Clap2.wav.mp3"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"preset": "alternative",
+		"tag": "Alternative",
+		"sounds": [
+			{
+				"id": "10",
+				"name": "Q",
+				"tag": "Disco-Guitar-1",
+				"url": "https://sampleswap.org/samples-ghost/INSTRUMENTS%20(SINGLE%20SAMPLES)/Guitars/41[kb]disco-guitar-notes-1.wav.mp3"
+			},
+			{
+				"id": "11",
+				"name": "W",
+				"tag": "Disco-Guitar-2",
+				"url": "https://sampleswap.org/samples-ghost/INSTRUMENTS%20(SINGLE%20SAMPLES)/Guitars/98[kb]disco-guitar-notes-2.wav.mp3"
+			},
+			{
+				"id": "12",
+				"name": "E",
+				"tag": "Disco-Guitar-3",
+				"url": "https://sampleswap.org/samples-ghost/INSTRUMENTS%20(SINGLE%20SAMPLES)/Guitars/77[kb]disco-guitar-notes-3.wav.mp3"
+			},
+			{
+				"id": "13",
+				"name": "A",
+				"tag": "Kick-Hat",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Kicks/81[kb]kick-hat-inxs.wav.mp3"
+			},
+			{
+				"id": "14",
+				"name": "S",
+				"tag": "Hecteck-Kick",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Kicks/26[kb]hectech-kick.wav.mp3"
+			},
+			{
+				"id": "15",
+				"name": "D",
+				"tag": "Open-HH-1",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Hats/46[kb]ohh808.aif.mp3"
+			},
+			{
+				"id": "16",
+				"name": "Z",
+				"tag": "Close-HH-1",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Hats/11[kb]chh.aif.mp3"
+			},
+
+			{
+				"id": "17",
+				"name": "X",
+				"tag": "Punchy-Kick",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Punches%20Hits%20Discoblasts/81[kb]kickhats.aif.mp3"
+			},
+			{
+				"id": "18",
+				"name": "C",
+				"tag": "Disco-Stab",
+				"url": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Melodic%20Stabs%20and%20Hits/215[kb]disco-synth-stab.wav.mp3"
+			}
+		]
+	}
+]

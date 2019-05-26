@@ -1,0 +1,18 @@
+#drum-machine {
+	height: 100vh;
+	display: grid;
+	align-items: center;
+	justify-items: center;
+	grid-template-rows: 1fr 2fr;
+	padding-bottom: -10rem;
+	@media (min-width: 900px) {
+		width: 60vw;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: auto;
+		margin: 0 auto;
+		align-items: center;
+		justify-items: center;
+		height: 40vh;
+	}
+}
